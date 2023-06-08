@@ -1,1 +1,1 @@
-su changing the user 
+whoami print the name of the current user
